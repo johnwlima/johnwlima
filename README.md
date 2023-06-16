@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnwlima
-- 👀 I’m interested in design, python, AI, UX, UI
-- 🌱 I’m currently learning UX, UI, python
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in product design, python, AI, UX, UI, frontend
+- 🌱 I’m currently learning UX, UI, python, frontend
+- 💞️ I’m looking to collaborate on product design projects
 - 📫 How to reach me @john_wlima, on instagram.
 
 <!---
