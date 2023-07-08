@@ -15,16 +15,8 @@
 - 👀 I’m interested in product design, python, AI, UX, UI, frontend
 - 🌱 I’m currently learning UX, UI, python, frontend
 
-##
-##
+
 ##Technologies
-
-
-
-#skills
-
-UI | UX | Branding | graphic design | marketing | frontend developmente
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="john-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,4 +28,8 @@ UI | UX | Branding | graphic design | marketing | frontend developmente
   
 </div>
 
+##
+#skills
+
+UI | UX | Branding | graphic design | marketing | frontend developmente
 ##
