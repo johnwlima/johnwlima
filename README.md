@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @johnwlima
+#👋 Hi, I’m @johnwlima
 
 <picture>
   <source
@@ -14,14 +14,22 @@
 
 - 👀 I’m interested in product design, python, AI, UX, UI, frontend
 - 🌱 I’m currently learning UX, UI, python, frontend
-- 💞️ I’m looking to collaborate on product design projects
-- 📫 How to reach me @john_wlima, on instagram.
+
+##
+##
+##Technologies
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
 
 
-Technologies
-
-
-
-skills
+#skills
 
 UI | UX | Branding | graphic design | marketing | frontend developmente
+##
+##
