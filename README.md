@@ -31,5 +31,5 @@
 ##
 #skills
 
-UI | UX | Branding | graphic design | marketing | frontend developmente
+UI | UX | Branding | graphic design | marketing | frontend development
 ##
