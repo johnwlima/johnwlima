@@ -1,4 +1,4 @@
-#👋 Hi, I’m @johnwlima
+# 👋 Hi, I’m @johnwlima
 
 <picture>
   <source
@@ -12,11 +12,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=johnwlima&show_icons=true" />
 </picture>
 
-- 👀 I’m interested in product design, python, AI, UX, UI, frontend
-- 🌱 I’m currently learning UX, UI, python, frontend
+- 👀 I’m interested in Product Design, python, AI, UX, UI, frontend, Crypto, Business and Games
+- 🌱 I’m currently learning Product Design, Automation and Frontend
 
 
-##Technologies
+## Technologies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="john-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,11 +25,16 @@
   <img align="center" alt="john-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="john-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="john-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="john-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="john-Svelte" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg">
+  <img align="center" alt="john-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
+  <img align="center" alt="john-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+
   
 </div>
 
 ##
 #skills
 
-UI | UX | Branding | graphic design | marketing | frontend development
+UI | UX | Branding | graphic design | marketing | frontend development | Automation | Product Design
 ##
